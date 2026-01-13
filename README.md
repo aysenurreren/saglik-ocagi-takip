@@ -17,5 +17,4 @@ Proje kapsamında veritabanı tasarımı yapılmış, tablolar arası ilişkiler
 CRUD işlemleri uygulanmıştır. PL/SQL kullanılarak temel trigger ve procedure yapıları
 oluşturulmuştur.
 
-## Not
-Bu proje eğitim amaçlı geliştirilmiştir.
+
